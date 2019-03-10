@@ -10,6 +10,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.14",
     "vue": "^2.6.6",
+    "vue-carousel": "^0.18.0-alpha",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
